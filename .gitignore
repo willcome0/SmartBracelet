@@ -3,3 +3,7 @@ Project Outputs for 工程/Design Rule Check - PCB.html
 Project Outputs for 工程/Design Rule Check - PCB.drc
 __Previews/原理图.SchDocPreview
 工程.PrjPCBStructure
+*.PrjPCBStructure
+*.SchDocPreview
+*.drc
+*.html
