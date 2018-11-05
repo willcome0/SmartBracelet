@@ -127,6 +127,10 @@ DocumentUniqueId=KEIVFERT
 DocumentPath=Project Outputs for 工程\Design Rule Check - PCB.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for 工程\Design Rule Check - 拼板.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
